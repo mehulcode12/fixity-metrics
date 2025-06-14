@@ -1,0 +1,701 @@
+{
+    "question_paper_id": "PT-II-086",
+    "title": "PERIODIC TEST - II SCIENCE",
+    "total_marks": 30,
+    "duration": "75 Min",
+    "instructions": "i. This question paper consists of 15 questions in 5 sections.\nii. Section-A Consists of 8 objective type questions carrying 1 mark each.\niii.Section-B Consists of 2 very short answer type questions carrying 02 marks each. Answers to these questions should be in the range of 30 to 50 words.\niv. Section-C Consists of 3 short answer type questions carrying 03 marks each. Answer to these questions should be in the range of 50-80 words.\nv. Section-D Consists of 1 long answer type question carrying 05 marks each. Answer to this question should be in the range of 80-120 words.\nvi. Section-E Consists of 1 source-based/case-based units of assessment of 04 marks each with sub-parts.",
+    "sections": [
+        {
+            "section_title": "1. Section A",
+            "instructions": "Select and write one most appropriate option out of the four options given for each of the questions 1-8.",
+            "total_questions": 8,
+            "questions_to_answer": 8,
+            "total_marks": 8,
+            "questions": [
+                {
+                    "question_number": "1",
+                    "question_text": "20 coulomb charge is flowing in 0.5 second from a point in an electric circuit then value of electric current in amperes will be _______.",
+                    "marks": 1,
+                    "type": "multiple_choice",
+                    "diagram_based": false,
+                    "diagram_required": false,
+                    "options": [
+                        "(a) 10",
+                        "(b) 40",
+                        "(c) 0.005",
+                        "(d) 0.05"
+                    ],
+                    "correct_answer": "b",
+                    "topics": [
+                        "Physics",
+                        "Electric Current"
+                    ],
+                    "blooms_tags": [
+                        "Application"
+                    ],
+                    "difficulty": "Easy",
+                    "page_number": 1
+                },
+                {
+                    "question_number": "2",
+                    "question_text": "An electric kettle consumes 1 kW of electric power when operated at 220 V. A fuse wire of what rating must be used for it?",
+                    "marks": 1,
+                    "type": "multiple_choice",
+                    "diagram_based": false,
+                    "diagram_required": false,
+                    "options": [
+                        "(a) 1 A",
+                        "(b) 2 A",
+                        "(c) 4 A",
+                        "(d) 5 A"
+                    ],
+                    "correct_answer": "d",
+                    "topics": [
+                        "Physics",
+                        "Electricity"
+                    ],
+                    "blooms_tags": [
+                        "Application"
+                    ],
+                    "difficulty": "Medium",
+                    "page_number": 1
+                },
+                {
+                    "question_number": "3",
+                    "question_text": "Identify the mode of asexual reproduction in the following organisms:",
+                    "marks": 1,
+                    "type": "multiple_choice",
+                    "diagram_based": true,
+                    "diagram_required": false,
+                    "options": [
+                        "(a) Fragmentation",
+                        "(b) Multiple fission",
+                        "(c) Budding",
+                        "(d) Binary fission"
+                    ],
+                    "correct_answer": "c",
+                    "topics": [
+                        "Biology",
+                        "Reproduction"
+                    ],
+                    "blooms_tags": [
+                        "Knowledge"
+                    ],
+                    "difficulty": "Medium",
+                    "page_number": 1
+                },
+                {
+                    "question_number": "4",
+                    "question_text": "Zygote is formed by the fusion of male and female gametes the number of chromosomes in the zygote of a human is",
+                    "marks": 1,
+                    "type": "multiple_choice",
+                    "diagram_based": false,
+                    "diagram_required": false,
+                    "options": [
+                        "(a) 23",
+                        "(b) 44",
+                        "(c) 46",
+                        "(d) 92"
+                    ],
+                    "correct_answer": "c",
+                    "topics": [
+                        "Biology",
+                        "Human Reproduction"
+                    ],
+                    "blooms_tags": [
+                        "Knowledge"
+                    ],
+                    "difficulty": "Easy",
+                    "page_number": 1
+                },
+                {
+                    "question_number": "5",
+                    "question_text": "The process of release of eggs from the ovary is called",
+                    "marks": 1,
+                    "type": "multiple_choice",
+                    "diagram_based": false,
+                    "diagram_required": false,
+                    "options": [
+                        "(a) menstruation",
+                        "(b) reproduction",
+                        "(c) insemination",
+                        "(d) ovulation"
+                    ],
+                    "correct_answer": "d",
+                    "topics": [
+                        "Biology",
+                        "Human Reproduction"
+                    ],
+                    "blooms_tags": [
+                        "Knowledge"
+                    ],
+                    "difficulty": "Easy",
+                    "page_number": 2
+                },
+                {
+                    "question_number": "6",
+                    "question_text": "Which among the following diseases is not sexually transmitted?",
+                    "marks": 1,
+                    "type": "multiple_choice",
+                    "diagram_based": false,
+                    "diagram_required": false,
+                    "options": [
+                        "(a) Syphilis",
+                        "(b) Hepatitis",
+                        "(c) HIV-AIDS",
+                        "(d) Gonorrhea"
+                    ],
+                    "correct_answer": "b",
+                    "topics": [
+                        "Biology",
+                        "Diseases"
+                    ],
+                    "blooms_tags": [
+                        "Knowledge"
+                    ],
+                    "difficulty": "Medium",
+                    "page_number": 2
+                },
+                {
+                    "question_number": "7",
+                    "question_text": "Assertion (A): The 200 W bulbs glow with more brightness than 100 W bulbs.\nReason (R): A 100 W bulb has more resistance than 200 W bulb.",
+                    "marks": 1,
+                    "type": "assertion_reason",
+                    "diagram_based": false,
+                    "diagram_required": false,
+                    "assertion": "The 200 W bulbs glow with more brightness than 100 W bulbs.",
+                    "reason": "A 100 W bulb has more resistance than 200 W bulb.",
+                    "options": [
+                        "(a) Both A and R are true and R is the correct explanation of A.",
+                        "(b) Both A and R are true and R is not the correct explanation of A.",
+                        "(c) A is true but R is false.",
+                        "(d) A is false but R is true.",
+                        "(e) Both A and R are false."
+                    ],
+                    "correct_answer": "a",
+                    "topics": [
+                        "Physics",
+                        "Electricity"
+                    ],
+                    "blooms_tags": [
+                        "Analysis"
+                    ],
+                    "difficulty": "Medium",
+                    "page_number": 2
+                },
+                {
+                    "question_number": "8",
+                    "question_text": "Assertion (A): The child sex ratio is declining at an alarming rate in some sections of our society.\nReason (R): Female foeticides are carried out recklessly.",
+                    "marks": 1,
+                    "type": "assertion_reason",
+                    "diagram_based": false,
+                    "diagram_required": false,
+                    "assertion": "The child sex ratio is declining at an alarming rate in some sections of our society.",
+                    "reason": "Female foeticides are carried out recklessly.",
+                    "options": [
+                        "(a) Both A and R are true and R is the correct explanation of A.",
+                        "(b) Both A and R are true and R is not the correct explanation of A.",
+                        "(c) A is true but R is false.",
+                        "(d) A is false but R is true.",
+                        "(e) Both A and R are false."
+                    ],
+                    "correct_answer": "a",
+                    "topics": [
+                        "Biology",
+                        "Social Issues"
+                    ],
+                    "blooms_tags": [
+                        "Analysis"
+                    ],
+                    "difficulty": "Medium",
+                    "page_number": 2
+                }
+            ]
+        },
+        {
+            "section_title": "2. Section B",
+            "instructions": "Q.no. 9 & 10 are very short answer questions.",
+            "total_questions": 2,
+            "questions_to_answer": 2,
+            "total_marks": 4,
+            "questions": [
+                {
+                    "question_number": "9",
+                    "question_text": "Draw the graph to show that voltage is directly proportional to current. Name the law and define it.",
+                    "marks": 2,
+                    "type": "essay",
+                    "diagram_based": false,
+                    "diagram_required": true,
+                    "topics": [
+                        "Physics",
+                        "Ohm's Law"
+                    ],
+                    "blooms_tags": [
+                        "Application",
+                        "Understanding"
+                    ],
+                    "difficulty": "Medium",
+                    "page_number": 2,
+                    "correct_answer": "To show that voltage is directly proportional to current, we plot a graph with voltage (V) on the y-axis and current (I) on the x-axis. The graph will be a straight line passing through the origin, indicating that V \u221d I.\n\nThis relationship is known as Ohm's Law, which states that the current flowing through a conductor is directly proportional to the potential difference (voltage) applied across its ends, provided the physical conditions (like temperature) remain constant.\n\nMathematically, Ohm's Law is expressed as V = IR, where V is the voltage, I is the current, and R is the resistance of the conductor. The resistance R is the constant of proportionality and represents the slope of the V-I graph."
+                },
+                {
+                    "question_number": "10",
+                    "question_text": "Define the given terms:\n(a) Syngamy\n(b) Double fertilization",
+                    "marks": 2,
+                    "type": "multi_section",
+                    "diagram_based": false,
+                    "diagram_required": false,
+                    "subsections": [
+                        {
+                            "subsection_number": "10a",
+                            "question_text": "Syngamy",
+                            "marks": 1,
+                            "diagram_based": false,
+                            "diagram_required": false,
+                            "type": "essay",
+                            "is_optional": false,
+                            "correct_answer": "Syngamy is the process of fusion of male and female gametes (sperm and egg) to form a diploid zygote during sexual reproduction. It involves the union of haploid nuclei from both gametes, resulting in the restoration of the diploid chromosome number characteristic of the species. This process ensures genetic diversity in offspring by combining genetic material from two different individuals.",
+                            "topics": [
+                                "Biology",
+                                "Reproduction"
+                            ],
+                            "blooms_tags": [
+                                "Knowledge"
+                            ],
+                            "difficulty": "Easy"
+                        },
+                        {
+                            "subsection_number": "10b",
+                            "question_text": "Double fertilization",
+                            "marks": 1,
+                            "diagram_based": false,
+                            "diagram_required": false,
+                            "type": "essay",
+                            "is_optional": false,
+                            "correct_answer": "Double fertilization is a unique reproductive process that occurs in flowering plants (angiosperms). It involves two simultaneous fertilization events:\n1. One sperm cell fuses with the egg cell to form a diploid zygote, which develops into the embryo.\n2. The second sperm cell fuses with the two polar nuclei in the central cell of the embryo sac to form a triploid primary endosperm nucleus, which develops into the endosperm (nutritive tissue for the developing embryo).\n\nThis process ensures that endosperm development is triggered only when fertilization occurs, providing nutrition specifically for the developing embryo.",
+                            "topics": [
+                                "Biology",
+                                "Reproduction"
+                            ],
+                            "blooms_tags": [
+                                "Knowledge"
+                            ],
+                            "difficulty": "Easy"
+                        }
+                    ],
+                    "topics": [
+                        "Biology",
+                        "Reproduction"
+                    ],
+                    "blooms_tags": [
+                        "Knowledge"
+                    ],
+                    "difficulty": "Easy",
+                    "page_number": 2,
+                    "correct_answer": "No answer generated"
+                }
+            ]
+        },
+        {
+            "section_title": "3. Section C",
+            "instructions": "Q.no.11 to 13 are short answer type questions.",
+            "total_questions": 3,
+            "questions_to_answer": 3,
+            "total_marks": 9,
+            "questions": [
+                {
+                    "question_number": "11",
+                    "question_text": "Give reason for the following:\n(a) The heating elements of electric toasters and electric irons made of an alloy rather than a pure metal?\n(b) Tungsten used almost exclusively for filament of electric lamp.\n(c)Why do we use copper and aluminum wires for transmission of electric current?",
+                    "marks": 3,
+                    "type": "multi_section",
+                    "diagram_based": false,
+                    "diagram_required": false,
+                    "subsections": [
+                        {
+                            "subsection_number": "11a",
+                            "question_text": "The heating elements of electric toasters and electric irons made of an alloy rather than a pure metal?",
+                            "marks": 1,
+                            "diagram_based": false,
+                            "diagram_required": false,
+                            "type": "essay",
+                            "is_optional": false,
+                            "correct_answer": "The heating elements of electric toasters and electric irons are made of alloys rather than pure metals because alloys have higher resistivity and lower temperature coefficients of resistance compared to pure metals. This means they generate more heat for the same current and maintain consistent resistance at high temperatures. Additionally, alloys like nichrome (nickel-chromium) have higher melting points and are more resistant to oxidation at high temperatures, making them more durable for heating applications. Pure metals would either melt or oxidize quickly under the operating conditions of these appliances.",
+                            "topics": [
+                                "Physics",
+                                "Electricity",
+                                "Materials"
+                            ],
+                            "blooms_tags": [
+                                "Understanding",
+                                "Analysis"
+                            ],
+                            "difficulty": "Medium"
+                        },
+                        {
+                            "subsection_number": "11b",
+                            "question_text": "Tungsten used almost exclusively for filament of electric lamp.",
+                            "marks": 1,
+                            "diagram_based": false,
+                            "diagram_required": false,
+                            "type": "essay",
+                            "is_optional": false,
+                            "correct_answer": "Tungsten is used almost exclusively for filaments in electric lamps because of its extremely high melting point which allows it to be heated to incandescence without melting. It also has low vapor pressure at high temperatures, meaning it evaporates very slowly, extending the life of the filament. Additionally, tungsten has good mechanical strength at high temperatures and relatively high resistivity, making it ideal for converting electrical energy to light energy efficiently in incandescent bulbs.",
+                            "topics": [
+                                "Physics",
+                                "Electricity",
+                                "Materials"
+                            ],
+                            "blooms_tags": [
+                                "Understanding",
+                                "Analysis"
+                            ],
+                            "difficulty": "Medium"
+                        },
+                        {
+                            "subsection_number": "11c",
+                            "question_text": "Why do we use copper and aluminum wires for transmission of electric current?",
+                            "marks": 1,
+                            "diagram_based": false,
+                            "diagram_required": false,
+                            "type": "essay",
+                            "is_optional": false,
+                            "correct_answer": "Copper and aluminum wires are used for transmission of electric current because they have excellent electrical conductivity (low resistivity), which minimizes energy loss during transmission. Copper has the second-highest electrical conductivity among pure metals (after silver), while aluminum, though less conductive than copper, has the advantage of being lighter and less expensive. Both metals are also ductile, making them easy to draw into wires, and have good mechanical strength. Additionally, they are relatively resistant to corrosion, ensuring longevity of the transmission lines.",
+                            "topics": [
+                                "Physics",
+                                "Electricity",
+                                "Materials"
+                            ],
+                            "blooms_tags": [
+                                "Understanding",
+                                "Analysis"
+                            ],
+                            "difficulty": "Medium"
+                        }
+                    ],
+                    "topics": [
+                        "Physics",
+                        "Electricity",
+                        "Materials"
+                    ],
+                    "blooms_tags": [
+                        "Understanding",
+                        "Analysis"
+                    ],
+                    "difficulty": "Medium",
+                    "page_number": 2,
+                    "correct_answer": "No answer generated"
+                },
+                {
+                    "question_number": "12",
+                    "question_text": "Two electric bulbs rated 100 W; 220 V and 60 W; 220 V are connected in parallel to an electric main of 220 V. Find the current drawn by the bulbs from the mains.",
+                    "marks": 3,
+                    "type": "essay",
+                    "diagram_based": false,
+                    "diagram_required": false,
+                    "topics": [
+                        "Physics",
+                        "Electricity"
+                    ],
+                    "blooms_tags": [
+                        "Application",
+                        "Analysis"
+                    ],
+                    "difficulty": "Hard",
+                    "page_number": 2,
+                    "correct_answer": "For the 100 W, 220 V bulb:\nPower P\u2081 = 100 W\nVoltage V = 220 V\nCurrent I\u2081 = P\u2081/V = 100 W/220 V = 0.455 A\n\nFor the 60 W, 220 V bulb:\nPower P\u2082 = 60 W\nVoltage V = 220 V\nCurrent I\u2082 = P\u2082/V = 60 W/220 V = 0.273 A\n\nSince the bulbs are connected in parallel, the total current drawn from the mains is the sum of the individual currents:\nI_total = I\u2081 + I\u2082 = 0.455 A + 0.273 A = 0.728 A\n\nTherefore, the current drawn by the bulbs from the mains is 0.728 A."
+                },
+                {
+                    "question_number": "13",
+                    "type": "choice_based",
+                    "diagram_based": false,
+                    "diagram_required": false,
+                    "marks": 3,
+                    "choices": [
+                        {
+                            "choice_number": "13a",
+                            "question_text": "Name the part or organ of the human female reproductive system:\n(a) Where contraceptive device such as copper-T or loop are placed to prevent pregnancy?\n(b) Which is blocked to prevent the transfer of eggs?\n(c) Where formation of germ cells as ova takes place?",
+                            "type": "multi_section",
+                            "marks": 3,
+                            "diagram_based": false,
+                            "diagram_required": false,
+                            "is_optional": true,
+                            "subsections": [
+                                {
+                                    "subsection_number": "13a(a)",
+                                    "question_text": "Where contraceptive device such as copper-T or loop are placed to prevent pregnancy?",
+                                    "marks": 1,
+                                    "diagram_based": false,
+                                    "diagram_required": false,
+                                    "correct_answer": "Contraceptive devices such as copper-T or loop are placed in the uterus (womb) to prevent pregnancy. These intrauterine devices (IUDs) work by creating an environment that is hostile to sperm and preventing implantation of a fertilized egg in the uterine lining."
+                                },
+                                {
+                                    "subsection_number": "13a(b)",
+                                    "question_text": "Which is blocked to prevent the transfer of eggs?",
+                                    "marks": 1,
+                                    "diagram_based": false,
+                                    "diagram_required": false,
+                                    "correct_answer": "The fallopian tubes (oviducts) are blocked to prevent the transfer of eggs. This procedure is called tubal ligation or tubectomy, which is a permanent method of female sterilization where the fallopian tubes are cut, tied, or blocked to prevent eggs from traveling from the ovaries to the uterus, thus preventing fertilization."
+                                },
+                                {
+                                    "subsection_number": "13a(c)",
+                                    "question_text": "Where formation of germ cells as ova takes place?",
+                                    "marks": 1,
+                                    "diagram_based": false,
+                                    "diagram_required": false,
+                                    "correct_answer": "The formation of germ cells as ova (eggs) takes place in the ovaries. The ovaries are the female gonads that produce female gametes (ova) through the process of oogenesis. Each ovary contains thousands of follicles, each containing an immature ovum."
+                                }
+                            ],
+                            "topics": [
+                                "Biology",
+                                "Human Reproduction"
+                            ],
+                            "blooms_tags": [
+                                "Knowledge"
+                            ],
+                            "difficulty": "Medium"
+                        },
+                        {
+                            "choice_number": "13b",
+                            "question_text": "What is vegetative reproduction? Explain in brief various modes of vegetative reproduction in plants.",
+                            "type": "essay",
+                            "marks": 3,
+                            "diagram_based": false,
+                            "diagram_required": false,
+                            "is_optional": true,
+                            "topics": [
+                                "Biology",
+                                "Plant Reproduction"
+                            ],
+                            "blooms_tags": [
+                                "Knowledge",
+                                "Understanding"
+                            ],
+                            "difficulty": "Medium",
+                            "correct_answer": "Vegetative reproduction is a type of asexual reproduction in plants where new individuals develop from vegetative parts of the parent plant without the production of seeds or spores. It results in offspring that are genetically identical to the parent plant (clones).\n\nVarious modes of vegetative reproduction in plants include:\n\n1. Natural vegetative propagation:\n   a) Runners/Stolons: These are horizontal stems that grow above the ground and produce new plants at nodes (e.g., strawberry, mint).\n   b) Rhizomes: Underground horizontal stems that produce new shoots and roots at nodes (e.g., ginger, turmeric, banana).\n   c) Tubers: Swollen underground stems that store food and have buds (eyes) that can grow into new plants (e.g., potato).\n   d) Bulbs: Underground modified stems with fleshy leaf bases storing food (e.g., onion, garlic, tulip).\n   e) Corms: Vertical underground stems that store food (e.g., gladiolus, crocus).\n   f) Suckers: New shoots that arise from the roots or lower parts of stems (e.g., banana, pineapple).\n   g) Offset: Short lateral stems with rosette of leaves at their tips (e.g., water hyacinth, pistia).\n\n2. Artificial vegetative propagation:\n   a) Cutting: A piece of stem, root, or leaf is cut from the parent plant and placed in soil to develop into a new plant.\n   b) Layering: A branch is bent to the ground and covered with soil, allowing it to form roots before being separated from the parent plant.\n   c) Grafting: A part of one plant (scion) is attached to another plant (stock) so they grow as one plant.\n   d) Tissue culture: Small pieces of plant tissue are grown in a nutrient medium under sterile conditions to produce numerous plantlets.\n\nVegetative reproduction is advantageous for quick propagation and preserving desirable traits, but it limits genetic diversity."
+                        }
+                    ],
+                    "page_number": 2,
+                    "question_text": " ",
+                    "correct_answer": "No answer generated"
+                }
+            ]
+        },
+        {
+            "section_title": "4. Section D",
+            "instructions": "Q.no. 14 is long answer question.",
+            "total_questions": 1,
+            "questions_to_answer": 1,
+            "total_marks": 5,
+            "questions": [
+                {
+                    "question_number": "14",
+                    "type": "choice_based",
+                    "diagram_based": false,
+                    "diagram_required": false,
+                    "marks": 5,
+                    "choices": [
+                        {
+                            "choice_number": "14a",
+                            "question_text": "(a) Why is DNA copying essential part of the process of reproduction?\n(b)What are the advantages of sexual reproduction over asexual reproduction?\n(c)Name the causes to agent of the disease Kala-azar and its mode of asexual reproduction.",
+                            "type": "multi_section",
+                            "marks": 5,
+                            "diagram_based": false,
+                            "diagram_required": false,
+                            "is_optional": true,
+                            "subsections": [
+                                {
+                                    "subsection_number": "14a(a)",
+                                    "question_text": "Why is DNA copying essential part of the process of reproduction?",
+                                    "marks": 2,
+                                    "diagram_based": false,
+                                    "diagram_required": false,
+                                    "correct_answer": "DNA copying is an essential part of the process of reproduction because:\n\n1. Genetic continuity: DNA contains the genetic information that determines the characteristics and functions of an organism. Copying DNA ensures that this genetic information is passed from parent to offspring, maintaining the continuity of species.\n\n2. Cell division: For organisms to reproduce, cells must divide. Before cell division occurs, DNA must be replicated so that each new cell receives a complete set of genetic instructions.\n\n3. Inheritance of traits: DNA copying allows for the inheritance of traits from parents to offspring, ensuring that offspring have the necessary genetic information to develop and function properly.\n\n4. Basis for variation: During DNA replication, occasional errors (mutations) can occur, which introduce genetic variations. These variations, combined with genetic recombination in sexual reproduction, provide the raw material for evolution and adaptation to changing environments.\n\n5. Growth and development: In multicellular organisms, DNA copying is essential not only for reproduction but also for growth and development, as cells divide and differentiate to form various tissues and organs.\n\nWithout accurate DNA copying, reproduction would not be possible, as the genetic information necessary for life would not be transmitted to the next generation."
+                                },
+                                {
+                                    "subsection_number": "14a(b)",
+                                    "question_text": "What are the advantages of sexual reproduction over asexual reproduction?",
+                                    "marks": 2,
+                                    "diagram_based": false,
+                                    "diagram_required": false,
+                                    "correct_answer": "Advantages of sexual reproduction over asexual reproduction:\n\n1. Genetic diversity: Sexual reproduction combines genetic material from two different parents, creating unique combinations of genes in offspring. This genetic diversity is crucial for adaptation and evolution.\n\n2. Adaptation to changing environments: The genetic variation produced through sexual reproduction increases the likelihood that some individuals in a population will possess traits that enable them to survive in changing environmental conditions.\n\n3. Disease resistance: Genetically diverse populations are less susceptible to being wiped out by a single disease or pathogen, as some individuals may possess resistance genes.\n\n4. Elimination of harmful mutations: Sexual reproduction can help eliminate harmful mutations from a population through genetic recombination and the process of natural selection.\n\n5. Evolutionary advantage: Sexual reproduction accelerates the rate of evolution by creating new gene combinations that can be tested by natural selection in each generation.\n\n6. Repair mechanisms: The processes involved in sexual reproduction include mechanisms that can repair damaged DNA, reducing the accumulation of harmful mutations.\n\n7. Masking of recessive traits: Sexual reproduction allows for the masking of harmful recessive traits when paired with dominant healthy alleles from the other parent.\n\nThese advantages make sexual reproduction particularly beneficial for species living in variable or unpredictable environments, despite requiring more energy and resources than asexual reproduction."
+                                },
+                                {
+                                    "subsection_number": "14a(c)",
+                                    "question_text": "Name the causes to agent of the disease Kala-azar and its mode of asexual reproduction.",
+                                    "marks": 1,
+                                    "diagram_based": false,
+                                    "diagram_required": false,
+                                    "correct_answer": "The causative agent of Kala-azar (Visceral Leishmaniasis) is the protozoan parasite Leishmania donovani.\n\nIts mode of asexual reproduction is binary fission, where the parasite divides into two identical daughter cells. In the human host, the parasite exists in a form called amastigote inside macrophage cells and reproduces by binary fission. When these infected macrophages are taken up by a sandfly (the vector) during a blood meal, the parasites transform into promastigotes in the sandfly's gut and continue to multiply by binary fission before migrating to the proboscis, ready to infect another human host."
+                                }
+                            ],
+                            "topics": [
+                                "Biology",
+                                "Reproduction",
+                                "Genetics",
+                                "Diseases"
+                            ],
+                            "blooms_tags": [
+                                "Understanding",
+                                "Analysis"
+                            ],
+                            "difficulty": "Medium"
+                        },
+                        {
+                            "choice_number": "14b",
+                            "question_text": "Explain male reproductive system with neat labelled diagram.",
+                            "type": "essay",
+                            "marks": 5,
+                            "diagram_based": false,
+                            "diagram_required": true,
+                            "is_optional": true,
+                            "topics": [
+                                "Biology",
+                                "Human Reproduction"
+                            ],
+                            "blooms_tags": [
+                                "Knowledge",
+                                "Understanding"
+                            ],
+                            "difficulty": "Medium",
+                            "correct_answer": "Male Reproductive System:\n\nThe male reproductive system consists of primary and accessory sex organs that work together to produce, store, and transfer sperm for reproduction.\n\nPrimary Sex Organs:\n1. Testes (testicles): A pair of oval-shaped organs located in the scrotum that produce sperm (spermatogenesis) and the male sex hormone testosterone. Each testis contains seminiferous tubules where sperm production occurs.\n\nAccessory Sex Organs:\n2. Scrotum: A pouch of skin that holds the testes outside the body cavity, maintaining them at a temperature lower than body temperature, which is necessary for sperm production.\n\n3. Epididymis: A highly coiled tube attached to the posterior surface of each testis where sperm mature and gain motility. It also serves as a storage site for sperm.\n\n4. Vas deferens (sperm duct): A muscular tube that carries sperm from the epididymis to the urethra. It joins with the seminal vesicle to form the ejaculatory duct.\n\n5. Seminal vesicles: A pair of glandular structures that produce a fructose-rich fluid that provides energy for sperm motility. This fluid constitutes about 60-70% of semen volume.\n\n6. Prostate gland: A single gland surrounding the urethra below the bladder that secretes an alkaline fluid that neutralizes the acidic environment of the vagina, enhancing sperm survival.\n\n7. Bulbourethral glands (Cowper's glands): A pair of small glands that secrete a clear, mucus-like fluid that lubricates the urethra and neutralizes any traces of acidic urine.\n\n8. Urethra: A tube running through the penis that carries both urine (from the bladder) and semen (from the reproductive organs) to the outside. It has three parts: prostatic, membranous, and penile urethra.\n\n9. Penis: The male copulatory organ consisting of erectile tissue that becomes rigid during sexual arousal. It delivers sperm into the female reproductive tract during sexual intercourse.\n\nFunction:\nThe male reproductive system produces, stores, and transports sperm cells to the female reproductive tract. Sperm production begins at puberty in the seminiferous tubules of the testes. The sperm then travel to the epididymis for maturation and storage. During ejaculation, sperm move through the vas deferens and mix with fluids from the seminal vesicles, prostate gland, and bulbourethral glands to form semen, which is expelled through the urethra.\n\n[A diagram would show all these structures in their proper anatomical positions, with clear labels for each component mentioned above.]"
+                        }
+                    ],
+                    "page_number": 3,
+                    "question_text": " ",
+                    "correct_answer": "No answer generated"
+                }
+            ]
+        },
+        {
+            "section_title": "5. Section E",
+            "instructions": "Q.no. 15 is a source-based question with 2 to 3 sub-parts. Internal choice is provided in one of these sub-parts.",
+            "total_questions": 1,
+            "questions_to_answer": 1,
+            "total_marks": 4,
+            "questions": [
+                {
+                    "question_number": "15",
+                    "question_text": "The electrical energy consumed by an electrical appliance is given by the product of its power rating and the time for which it is used. The SI unit of electrical energy is Joule. Actually, Joule represents a very small quantity of energy and therefore it is inconvenient to use where a large quantity of energy is involved. So for commercial purposes we use a bigger unit of electrical energy which is called kilowatt hour. 1 kilowatt-hour is equal to 3.6 x 10^6 joules of electrical energy.",
+                    "marks": 4,
+                    "type": "multi_section",
+                    "diagram_based": false,
+                    "diagram_required": false,
+                    "subsections": [
+                        {
+                            "subsection_number": "15(i)",
+                            "question_text": "The energy dissipated by the heater is E. When the time of operating the heater is doubled, the energy dissipated is",
+                            "marks": 1,
+                            "diagram_based": false,
+                            "diagram_required": false,
+                            "type": "essay",
+                            "is_optional": false,
+                            "correct_answer": "When the time of operating the heater is doubled, the energy dissipated is also doubled (2E).\n If the power (P) remains constant and the time (t) is doubled, the energy (E) will also be doubled.",
+                            "topics": [
+                                "Physics",
+                                "Electricity",
+                                "Energy"
+                            ],
+                            "blooms_tags": [
+                                "Application",
+                                "Analysis"
+                            ],
+                            "difficulty": "Medium"
+                        },
+                        {
+                            "subsection_number": "15(ii)",
+                            "question_text": "The power of a lamp is 60 W. What is the energy consumed in 1 minute?",
+                            "marks": 1,
+                            "diagram_based": false,
+                            "diagram_required": false,
+                            "type": "essay",
+                            "is_optional": false,
+                            "correct_answer": "Given:\nPower of lamp (P) = 60 W\nTime (t) = 1 minute = 60 seconds\n\nThe energy consumed is calculated using the formula:\nE = P \u00d7 t\nE = 60 W \u00d7 60 s\nE = 3600 J (or 3.6 kJ)\n\nTherefore, the energy consumed by the 60 W lamp in 1 minute is 3600 joules.",
+                            "topics": [
+                                "Physics",
+                                "Electricity",
+                                "Energy"
+                            ],
+                            "blooms_tags": [
+                                "Application",
+                                "Analysis"
+                            ],
+                            "difficulty": "Medium"
+                        },
+                        {
+                            "type": "choice_based",
+                            "diagram_based": false,
+                            "diagram_required": false,
+                            "marks": 2,
+                            "choices": [
+                                {
+                                    "choice_number": "15(iii)",
+                                    "question_text": "The electrical refrigerator rated 400 W operates 8 hours a day. The cost of electrical energy is rs 5 per kWh. Find the cost of running the refrigerator for one day?",
+                                    "type": "essay",
+                                    "marks": 2,
+                                    "diagram_based": false,
+                                    "diagram_required": false,
+                                    "is_optional": true,
+                                    "topics": [
+                                        "Physics",
+                                        "Electricity",
+                                        "Energy Consumption"
+                                    ],
+                                    "blooms_tags": [
+                                        "Application",
+                                        "Analysis"
+                                    ],
+                                    "difficulty": "Medium"
+                                },
+                                {
+                                    "choice_number": "15(OR)",
+                                    "question_text": "Calculate the energy transformed by a 5 A current flowing through a resistor of 2 \u03a9 for 30 minutes?",
+                                    "type": "essay",
+                                    "marks": 2,
+                                    "diagram_based": false,
+                                    "diagram_required": false,
+                                    "is_optional": true,
+                                    "topics": [
+                                        "Physics",
+                                        "Electricity",
+                                        "Energy Transformation"
+                                    ],
+                                    "blooms_tags": [
+                                        "Application",
+                                        "Analysis"
+                                    ],
+                                    "difficulty": "Medium"
+                                }
+                            ],
+                            "question_text": " ",
+                            "subsection_number": "15c",
+                            "is_optional": false,
+                            "correct_answer": "Cost of running 400W refrigerator for 8 hours: Energy consumed = 400W × 8h = 3200 Wh = 3.2 kWh Cost = 3.2 kWh × ₹5/kWh = ₹16",
+                            "topics": [
+                                "Physics",
+                                "Electricity",
+                                "Energy"
+                            ],
+                            "blooms_tags": [
+                                "Application",
+                                "Analysis"
+                            ],
+                            "difficulty": "Medium"
+                        }
+                    ],
+                    "topics": [
+                        "Physics",
+                        "Electricity",
+                        "Energy"
+                    ],
+                    "blooms_tags": [
+                        "Application",
+                        "Analysis"
+                    ],
+                    "difficulty": "Medium",
+                    "page_number": 3,
+                    "correct_answer": "The energy transformed (E) or heat produced (H) in a resistor can be calculated using Joule's Law of Heating:E=I 2Rt. E = (5)² × 2 × 1800E = 25 × 2 × 1800E = 90,000 J or 90 kJ"
+                }
+            ]
+        }
+    ]
+}
