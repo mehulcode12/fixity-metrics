@@ -6,3 +6,6 @@ seaborn
 nltk
 rouge-score
 plotly
+seaborn 
+altair
+matplotlib
