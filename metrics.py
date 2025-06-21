@@ -7,6 +7,7 @@ from nltk.translate.bleu_score import sentence_bleu, SmoothingFunction
 from rouge_score import rouge_scorer
 import plotly.express as px
 import batch_metrics
+import detailed_metrics
 
 # Download NLTK tokenizer if needed
 try:
@@ -19,7 +20,7 @@ st.set_page_config(page_title="Text Comparison Scores", layout="wide")
 st.title("ROUGE and BLEU Score Calculator")
 
 # Tabs for two modes
-tab1, tab2 = st.tabs(["Single File Comparison", "Batch File Evaluation"])
+tab1, tab2, tab3 = st.tabs(["Single File Comparison", "Batch File Evaluation","detailed metrics evaluation"])
 
 # Shared utility functions
 def preprocess_text(text):
@@ -248,3 +249,9 @@ with tab1:
 # ----------------------- TAB 2: Batch Evaluation -----------------------
 with tab2:
     batch_metrics.run_batch_ui()
+
+with tab3:
+        st.header("Detailed Metrics Evaluation")
+
+        # You can expand this section with batch processing functionality
+        detailed_metrics.run_detailed_metrics()
